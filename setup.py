@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 f = open("requirements.txt", "r")
 setuptools.setup(
     name="odb2psql", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Eko S. Wibowo",
     author_email="swdev.bali@gmail.com",
     description="Converter from OpenOffice *.odb to PostgreSQL *.sql",
